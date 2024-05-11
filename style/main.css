@@ -1,0 +1,51 @@
+:root {
+  --main-bg-color: #023047;
+  --med-blue: #219ebc;
+  --light-blue: #8ecae6;
+  --golden: #ffb703;
+  --orange-color: #fb8500;
+}
+
+body {
+  background-color: var(--main-bg-color);
+  color: var(--golden);
+  font-family: 'Courier New', Courier, monospace;
+  margin: 3rem;
+}
+
+a {
+  color: var(--light-blue);
+}
+
+a:hover {
+  color: var(--orange-color);
+}
+
+nav {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+nav a {
+  text-decoration: none;
+  color: var(--main-bg-color);
+  background-color: var(--light-blue);
+  border: 2px solid var(--orange-color);
+  border-radius: 25px;
+  padding: 1rem;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: var(--golden);
+  background-color: var(--med-blue);
+}
+
+article {
+  margin-top: 3rem;
+}
+
+footer {
+  margin-top: 3rem;
+  margin-left: 2rem;
+}
