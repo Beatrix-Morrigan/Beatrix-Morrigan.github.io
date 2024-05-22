@@ -15,6 +15,7 @@ body {
 
 a {
   color: var(--light-blue);
+  text-decoration: underline dotted;
 }
 
 a:hover {
@@ -56,4 +57,8 @@ footer {
 
 header {
   margin-bottom: 5rem;
+}
+
+li {
+  margin: 1rem;
 }
