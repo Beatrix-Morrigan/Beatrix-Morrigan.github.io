@@ -49,3 +49,11 @@ footer {
   margin-top: 3rem;
   margin-left: 2rem;
 }
+
+#library-directory {
+  font-size: large;
+}
+
+header {
+  margin-bottom: 5rem;
+}
