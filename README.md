@@ -59,3 +59,6 @@ https://www.youtube.com/watch?v=qwDxl_GmAxY
 https://mondoweiss.net/2024/04/the-media-is-advancing-a-false-narrative-of-rising-antisemitism-on-campus-by-ignoring-jewish-protesters/
 https://www.indybay.org/uploads/2012/03/20/occupationguideredux.pdf
 https://fillerpgh.wordpress.com/2023/04/19/an-open-letter-to-the-protest-peace-officer-who-assaulted-me/
+
+
+Interview with Mohammad Qasem on Bad Hasbara: The World's Most Moral Podcast https://open.spotify.com/episode/2ABKiRueaISYyYtu8WqZwI?si=306af766e19b47a4
