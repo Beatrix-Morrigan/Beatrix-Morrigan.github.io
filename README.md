@@ -16,8 +16,7 @@ https://linktr.ee/campingzines
 https://crimethinc.com/zines/blinding-the-cyclops
 https://dn790005.ca.archive.org/0/items/BlockadeOccupyStrikeBack/Blockade-Occupy-Strike-Back.pdf
 https://warriorpublications.wordpress.com/2014/04/16/defend-the-territory-pdf/
-https://www.indybay.org/uploads/2024/04/29/diy-occupation-guide-2024-print.pdf
-https://crimethinc.com/zines/how-to-organize-a-squatted-dance-party
+
 https://www.indigenousaction.org/new-zine-a-basic-guide-to-starting-an-indigenous-mens-transmasc-two-spirit-talking-action-circle/
 https://dn790006.ca.archive.org/0/items/nc_piece_2017_delusions/nc_piece_2017_delusions.pdf
 https://crimethinc.com/zines/why-we-dont-make-demands
@@ -46,7 +45,7 @@ https://x.com/resist_abolish/status/1787982645646737513?t=bQO1RCkPGfzS2ibIWPi9ag
 https://umap.openstreetmap.fr/en/map/active-military-contracts-between-israel-us-weapon_1019524#4/38.48/-95.80
 https://freedom.press/training/locking-down-signal/
 https://scalawagmagazine.org/2023/05/cop-city-atlanta-history-timeline/?utm_campaign=scal-social&utmy_source=twitter
-https://learningpalestine.hotglue.me/?Pamphlets
+
 https://haters.noblogs.org/files/2024/05/UCLA-Communique.pdf
 https://abolishtupd.wordpress.com/wp-content/uploads/2023/05/bad-apples-2022.pdf
 https://haters.noblogs.org/files/2024/05/Exiting-Law.pdf
@@ -56,9 +55,43 @@ https://www.metamates4ceasefire.com/
 https://www.palestineiseverywhere.com/
 https://palestinianyouthmovement.com/live-like-a-porcupine-fight-like-a-flea-basel-al-araj
 https://www.youtube.com/watch?v=qwDxl_GmAxY
-https://mondoweiss.net/2024/04/the-media-is-advancing-a-false-narrative-of-rising-antisemitism-on-campus-by-ignoring-jewish-protesters/
+
 https://www.indybay.org/uploads/2012/03/20/occupationguideredux.pdf
 https://fillerpgh.wordpress.com/2023/04/19/an-open-letter-to-the-protest-peace-officer-who-assaulted-me/
 
 
+
+https://watson.brown.edu/costsofwar/
+https://www.commondreams.org/
+https://mutualaiddisasterrelief.org/
+https://forensic-architecture.org/
+https://convergencemag.com/
+https://scalawagmagazine.org/
+https://www.972mag.com/
+https://electronicintifada.net/
+https://mondoweiss.net/
+https://labornotes.org/
+https://truthout.org/
+https://aboutfaceveterans.org/
+
+https://jewishcurrents.org/little-bargains
+
+
+### Student Intifada
+https://mondoweiss.net/2024/04/the-media-is-advancing-a-false-narrative-of-rising-antisemitism-on-campus-by-ignoring-jewish-protesters/
+
+### Palestine
+https://learningpalestine.hotglue.me/?Pamphlets
+https://www.zinnedproject.org/materials/teaching-the-seeds-of-violence-in-palestine-israel/
+https://www.zinnedproject.org/news/teaching-media-literacy-on-palestine-and-israel/
+https://www.zinnedproject.org/news/teaching-palestine-israel
+https://www.zinnedproject.org/materials/rachel-corries-letters-and-questions/
+https://www.zinnedproject.org/materials/independence-or-catastrophe/
+https://www.zinnedproject.org/materials/hundred-years-war-on-palestine/
+https://www.zinnedproject.org/materials/independence-or-catastrophe/
+https://www.zinnedproject.org/materials/roadmap-to-peace/
+https://visualizingpalestine.org/
+
 Interview with Mohammad Qasem on Bad Hasbara: The World's Most Moral Podcast https://open.spotify.com/episode/2ABKiRueaISYyYtu8WqZwI?si=306af766e19b47a4
+
+https://www.breakingthesilence.org.il/
