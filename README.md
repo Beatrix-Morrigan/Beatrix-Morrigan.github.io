@@ -27,8 +27,7 @@ https://ia801706.us.archive.org/5/items/blocing-up/blocing-up-imposed.pdf
 https://creekerzine.wordpress.com/2023/09/30/water-falling-on-granite/
 https://pugetsoundanarchists.org/wp-content/uploads/borderless-printing-double-sided.pdf
 https://ia600303.us.archive.org/5/items/no-safety/NoSafety.pdf
-https://theanarchistlibrary.org/category/author/fauda
-https://blackrosefed.org/wp-content/uploads/2023/10/fauda-interview.pdf
+
 https://library.lol/main/B36E3B57FD09623C24999A0A7E08B0EA
 https://x.com/abolitionstudy/status/1792026112194670937?t=qnv9-3KvzMHuRlqJt2HYuQ&s=19
 https://littlesis.org/news/who-rules-columbia-how-power-research-supported-the-1960s-student-movement/
@@ -64,34 +63,15 @@ https://fillerpgh.wordpress.com/2023/04/19/an-open-letter-to-the-protest-peace-o
 https://watson.brown.edu/costsofwar/
 https://www.commondreams.org/
 https://mutualaiddisasterrelief.org/
-https://forensic-architecture.org/
-https://convergencemag.com/
-https://scalawagmagazine.org/
-https://www.972mag.com/
-https://electronicintifada.net/
-https://mondoweiss.net/
-https://labornotes.org/
-https://truthout.org/
 https://aboutfaceveterans.org/
 
-https://jewishcurrents.org/little-bargains
 
 
-### Student Intifada
-https://mondoweiss.net/2024/04/the-media-is-advancing-a-false-narrative-of-rising-antisemitism-on-campus-by-ignoring-jewish-protesters/
 
 ### Palestine
-https://learningpalestine.hotglue.me/?Pamphlets
-https://www.zinnedproject.org/materials/teaching-the-seeds-of-violence-in-palestine-israel/
-https://www.zinnedproject.org/news/teaching-media-literacy-on-palestine-and-israel/
-https://www.zinnedproject.org/news/teaching-palestine-israel
-https://www.zinnedproject.org/materials/rachel-corries-letters-and-questions/
-https://www.zinnedproject.org/materials/independence-or-catastrophe/
-https://www.zinnedproject.org/materials/hundred-years-war-on-palestine/
-https://www.zinnedproject.org/materials/independence-or-catastrophe/
-https://www.zinnedproject.org/materials/roadmap-to-peace/
-https://visualizingpalestine.org/
+
 
 Interview with Mohammad Qasem on Bad Hasbara: The World's Most Moral Podcast https://open.spotify.com/episode/2ABKiRueaISYyYtu8WqZwI?si=306af766e19b47a4
 
-https://www.breakingthesilence.org.il/
+https://theanarchistlibrary.org/category/author/fauda
+https://blackrosefed.org/wp-content/uploads/2023/10/fauda-interview.pdf
