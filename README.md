@@ -4,53 +4,81 @@ gitignore for pics+docs is turned on until i can port my metadata scrubber over
 
 ## link dump, to be sorted for library
 
+https://www.amnesty.org/en/tech/
+
 
 https://cryptpad.fr/file/#/3/file/d0bb1d47800f7fbfc04d9711511792901d68e7af9028f9d5/
 https://cryptpad.fr/file/#/3/file/d0848047ea1efc7211d08eb9812352ad7ef34a965dbda8e9/
+
 https://ias.ucsc.edu/archives/archives/abolish-the-university-broadsheet/
+
 https://tabularasa0.wordpress.com/2022/07/15/forget-decolonising-the-university-abolish-it/
+
 https://theanarchistlibrary.org/library/boy-igor-phil-mailer-and-yet-it-moves-updated-edition
+
 https://redstarcaucus.org/endorsing-aoc-is-a-bridge-to-nowhere/
+
 https://x.com/PghAutonomy/status/1791826928938140075?t=Re-dC1DKj8HtFpB1uWpNHA&s=19
+
 https://linktr.ee/campingzines
+
 https://crimethinc.com/zines/blinding-the-cyclops
+
 https://dn790005.ca.archive.org/0/items/BlockadeOccupyStrikeBack/Blockade-Occupy-Strike-Back.pdf
+
 https://warriorpublications.wordpress.com/2014/04/16/defend-the-territory-pdf/
 
 https://www.indigenousaction.org/new-zine-a-basic-guide-to-starting-an-indigenous-mens-transmasc-two-spirit-talking-action-circle/
+
 https://dn790006.ca.archive.org/0/items/nc_piece_2017_delusions/nc_piece_2017_delusions.pdf
+
 https://crimethinc.com/zines/why-we-dont-make-demands
+
 https://crimethinc.com/2015/05/05/feature-why-we-dont-make-demands
+
 https://archive.org/details/affinity-fraud
-https://theanarchistlibrary.org/library/hakan-geijer-affinity-fraud-and-exploitable-empathy
+
 https://ia801706.us.archive.org/5/items/blocing-up/blocing-up-imposed.pdf
+
 https://creekerzine.wordpress.com/2023/09/30/water-falling-on-granite/
+
 https://pugetsoundanarchists.org/wp-content/uploads/borderless-printing-double-sided.pdf
+
 https://ia600303.us.archive.org/5/items/no-safety/NoSafety.pdf
 
 https://library.lol/main/B36E3B57FD09623C24999A0A7E08B0EA
 https://x.com/abolitionstudy/status/1792026112194670937?t=qnv9-3KvzMHuRlqJt2HYuQ&s=19
-https://littlesis.org/news/who-rules-columbia-how-power-research-supported-the-1960s-student-movement/
+
 https://www.indigenousaction.org/accomplices-not-allies-abolishing-the-ally-industrial-complex/
+
 https://peoplescdc.org/2022/09/12/masking/
+
 https://peoplescdc.org/2023/02/12/covid-safety-for-protests/
+
 https://x.com/rechelon/status/1791258846138098012?t=0CeaLCKcf89QcLEuey3uUg&s=19
+
 https://reclaimuc.blogspot.com/2012/06/notes-on-ouster-of-uva-president-teresa.html
 https://reclaimuc.blogspot.com/
+
 https://mronline.org/2020/07/03/anatomy-of-a-counter-insurgency/
-https://themarkup.org/the-breakdown/2024/05/04/how-do-i-prepare-my-phone-for-a-protest-updated-2024
+
+
 https://illwill.com/self-help-for-revolutionaries
 https://x.com/resist_abolish/status/1787982645646737513?t=bQO1RCkPGfzS2ibIWPi9ag&s=19
 https://umap.openstreetmap.fr/en/map/active-military-contracts-between-israel-us-weapon_1019524#4/38.48/-95.80
-https://freedom.press/training/locking-down-signal/
+
+https://palestineaction.org/leonardo-internet-access/
+
 https://scalawagmagazine.org/2023/05/cop-city-atlanta-history-timeline/?utm_campaign=scal-social&utmy_source=twitter
 
 https://haters.noblogs.org/files/2024/05/UCLA-Communique.pdf
 https://abolishtupd.wordpress.com/wp-content/uploads/2023/05/bad-apples-2022.pdf
+
 https://haters.noblogs.org/files/2024/05/Exiting-Law.pdf
 https://haters.noblogs.org/files/2024/05/Exiting-Law-imposed.pdf
+
 https://www.sproutdistro.com/catalog/zines/direct-action/that-horse-is-a-weapon/
-https://www.metamates4ceasefire.com/
+
 https://www.palestineiseverywhere.com/
 https://palestinianyouthmovement.com/live-like-a-porcupine-fight-like-a-flea-basel-al-araj
 https://www.youtube.com/watch?v=qwDxl_GmAxY
@@ -66,28 +94,73 @@ https://mutualaiddisasterrelief.org/
 https://aboutfaceveterans.org/
 
 
+https://www.aljazeera.com/program/in-the-field/2024/6/2/expelling-dissent-us-students-challenging-israels-war-on-gaza?traffic_source=KeepReading
+https://www.aljazeera.com/program/newsfeed/2024/6/2/chicago-students-stage-walkout-protest-for-gaza?traffic_source=KeepReading
+https://www.aljazeera.com/opinions/2024/6/1/universities-v-protest-a-letter-from-a-lesser-alumnus?traffic_source=KeepReading
+https://english.almayadeen.net/news/politics/desperate-search-for-milk-in-gaza--a-mother-s-struggle-amid
+https://english.almayadeen.net/articles/opinion/the-plight-of-palestinian-christians-and-the-american-right
+https://english.almayadeen.net/articles/opinion/how-the-student-encampment-in-vienna-further-cracked-the-wal
+https://english.almayadeen.net/articles/opinion/the-arrest-of-free-speaking-christian-palestinian-student-la
+https://english.almayadeen.net/articles/analysis/the-reality-is-that-diasporic-jews-are-calling-for-an-end-to
+https://english.almayadeen.net/articles/opinion/american-universities--from-fighting-south-african-apartheid
+https://english.almayadeen.net/articles/opinion/generating-and-spreading-fear
+https://english.almayadeen.net/articles/analysis/bans--fines--and-charges--the-repression-of-the-palestine-so
+https://abolitionmedia.noblogs.org/post/2024/05/02/nyc-anarchists-attack-caterpillar-equipment-in-solidarity-with-palestine/
+https://abolitionmedia.noblogs.org/post/2024/04/23/7473/
+https://abolitionmedia.noblogs.org/post/2024/04/22/new-atrocities-revealed-at-nasser-medical-hospital-unimaginable-zionist-genocidal-crimes-pflp/
+https://abolitionmedia.noblogs.org/post/2024/03/31/us-warship-heading-to-israel-stopped-by-protesters-in-california/
+https://abolitionmedia.noblogs.org/post/2024/03/29/palestine-action-shuts-down-elbit-factory-in-uk/
+https://abolitionmedia.noblogs.org/post/2024/03/27/weapons-and-resources-for-the-palestinians-and-their-allies/
+https://abolitionmedia.noblogs.org/post/2024/03/27/stop-the-humiliating-air-operations-and-open-all-crossings-to-introduce-aid-pflp/
+
+
+https://www.aljazeera.com/news/2003/6/5/israels-latin-american-trail-of-terror
+
+https://afsc.org/gaza-genocide-companies
+
+https://theintercept.com/2022/05/18/google-amazon-israel-military-nimbus/
+https://theintercept.com/2024/06/02/gaza-student-protest-campus-rust-belt/
+https://theintercept.com/2024/05/01/google-amazon-nimbus-israel-weapons-arms-gaza/
+https://theintercept.com/2024/04/05/google-photos-israel-gaza-facial-recognition/
+https://theintercept.com/2024/01/10/israel-disinformation-social-media-iron-truth/
 
 ### Student Intifada
 
 https://mondoweiss.net/2024/05/gazans-salute-university-students-uprising-for-palestine/
+
 https://mondoweiss.net/2024/05/israeli-universities-are-assisting-the-genocide-canadian-universities-refuse-to-cut-ties-with-them/
+
 https://theintercept.com/2024/05/08/university-divestment-israel-gaza-protests/
+
 https://theintercept.com/2024/05/08/intercepted-student-protests-gaza-columbia/
+
 https://theintercept.com/2024/01/21/university-student-sit-ins-palestine/
+
 https://www.dailyuw.com/opinion/statement-of-jewish-staff-faculty-and-students-regarding-uw-president-cauce-s-response-to-the/article_633ebe64-1cba-11ef-a292-73bca0524b97.html
+
 https://www.counterpunch.org/2024/05/27/calls-for-divestment-from-apartheid-south-africa-gave-todays-pro-palestinian-student-activists-a-blueprint-to-follow/
+
 https://www.sandiegouniontribune.com/opinion/commentary/story/2024-05-29/opinion-the-war-industry-extracts-cheap-labor-from-uc-san-diego-students-it-must-stop-now
+
 https://ucifa.org/2024/05/23/irvine-faculty-association-information-about-the-events-of-may-15th-2024/
+
 https://thenewinquiry.com/set-the-terms-of-your-struggle-the-cal-poly-humboldt-commune-speaks/
-https://therealnews.com/the-uc-strike-showed-theres-power-in-a-union-but-the-uaw-still-has-work-to-do
+
 https://theintercept.com/2024/01/22/columbia-university-palestine-protest-skunk/
+
 https://www.theguardian.com/world/article/2024/may/08/trinity-college-dublin-agrees-to-divest-from-israeli-firms-after-student-protest
+
 https://www.theguardian.com/education/video/2024/may/08/hunger-strikes-for-gaza-a-look-inside-the-princeton-student-protests-video
+
 https://www.theguardian.com/us-news/article/2024/may/02/the-pro-palestinian-us-campus-protests-in-maps-videos-and-photos
 
+https://www.leftvoice.org/wayne-state-student-leaders-reject-administrations-bad-offer-and-plan-to-hold-their-ground-against-repression-and-for-palestine/
 
+https://www.leftvoice.org/university-of-michigan-campus-protestors-are-keeping-the-focus-on-the-genocide-in-gaza/
 
+https://www.leftvoice.org/cuny-workers-should-support-the-five-demands-of-the-student-encampment/
 
+https://www.leftvoice.org/attack-on-pro-palestinian-protestors-at-umich-latest-example-of-democrats-defending-israels-genocide-in-gaza/
 
 
 
@@ -102,16 +175,14 @@ https://theanarchistlibrary.org/category/author/fauda
 https://blackrosefed.org/wp-content/uploads/2023/10/fauda-interview.pdf
 
 
-
+https://www.instagram.com/p/C7pAoHmtkjb/
 
 
 https://electronicintifada.net/blogs/tamara-nassar/inside-one-israeli-death-and-torture-camp
 https://electronicintifada.net/blogs/ali-abunimah/israeli-rights-group-admits-it-helped-spread-false-claims-about-7-oct-rapes
 https://electronicintifada.net/blogs/maureen-clare-murphy/israel-subjects-un-workers-torture
 
-https://spectrejournal.com/a-tale-of-two-strikes/?utm_source=pocket_mylist
-https://therealnews.com/the-uc-strike-showed-theres-power-in-a-union-but-the-uaw-still-has-work-to-do?utm_source=pocket_mylist
-https://livinghistory.as.ucsb.edu/tag/uaw-local-2865/
+
 https://www.thejc.com/news/world/rioters-set-fire-to-israeli-embassy-in-mexico-city-tr3313lu
 
 https://x.com/readytoescalate/status/1793148730452951512?t=pCM-ySw5EWhmUqueElNNrw&s=19
@@ -131,36 +202,58 @@ https://electronicintifada.net/content/village-under-occupation/26386
 https://electronicintifada.net/tags/palestinian-political-prisoners?page=2
 https://electronicintifada.net/content/israel-kidnapped-my-father-and-brother/46681
 https://therealnews.com/organising-against-apartheid-why-union-solidarity-with-palestine-matters
+
 https://www.scientists4palestine.com/professor-barghouti-arrested-once-again/
+
 https://www.aljazeera.com/news/2020/6/26/palestine-and-israel-mapping-an-annexation#naksa
+
 https://www.nplusonemag.com/online-only/online-only/a-dangerous-conflation/?affid=x
+
 https://therealnews.com/tens-of-thousands-march-on-washington-dc-for-a-free-palestine-demanding-ceasefire
 https://www.riverfronttimes.com/news/activists-block-entrances-to-st-charles-boeing-plant-41191948
 https://mondoweiss.net/2015/12/palestinian-details-refugee/
 https://margaretkilljoy.substack.com/p/in-the-land-of-burning-children?utm_source=share&utm_medium=android&r=1uz6es&triedRedirect=true
 https://crimethinc.com/2024/02/26/this-is-what-our-ruling-class-has-decided-will-be-normal-on-aaron-bushnells-action-in-solidarity-with-gaza
+
 https://www.leftvoice.org/the-working-class-has-the-power-to-stop-this-genocide-interview-with-a-uaw-4811-rank-and-filer/
+
 https://www.google.com/search?channel=fs&client=ubuntu-sn&q=how+many+palestinian+prisoners#ip=1
+
 https://www.hrw.org/news/2023/11/29/why-does-israel-have-so-many-palestinians-detention-and-available-swap
+
 https://www.latimes.com/opinion/story/2023-11-29/gaza-palestinian-prisoners-hostage-exchange-detention-israeli-prisons
+
 https://www.btselem.org/statistics/detainees_and_prisoners
+
 https://www.addameer.org/statistics
+
 https://www.npr.org/2023/12/02/1216715999/how-israels-judicial-system-handles-the-estimated-7000-palestinians-in-its-priso
+
 https://www.amnesty.org/en/latest/news/2023/11/israel-opt-horrifying-cases-of-torture-and-degrading-treatment-of-palestinian-detainees-amid-spike-in-arbitrary-arrests/
+
 https://www.dci-palestine.org/children_in_israeli_detention
+
 https://apnews.com/article/israel-detention-jails-palestinians-west-bank-793a3b2a1ce8439d08756da8c63e5435
+
 https://www.washingtonpost.com/world/2023/11/27/israel-palestine-detention-adminstrative-prisoners-jail/
+
 https://www.middleeastmonitor.com/20240208-number-of-palestinian-administrative-detainees-in-israeli-prisons-rises-to-3484/
 
 
 
 https://www.palestinercs.org/en
+
+
 https://www.theguardian.com/technology/2024/apr/19/idf-facial-recognition-surveillance-palestinians
+
 https://www.nytimes.com/2024/03/27/technology/israel-facial-recognition-gaza.html
+
 https://www.theguardian.com/world/2024/apr/11/idf-colonel-discusses-data-science-magic-powder-for-locating-terrorists
 
 https://www.sandiegouniontribune.com/opinion/commentary/story/2024-05-29/opinion-the-war-industry-extracts-cheap-labor-from-uc-san-diego-students-it-must-stop-now
+
 https://www.nytimes.com/interactive/2023/10/07/world/middleeast/israel-gaza-maps.html?referringSource=articleShare
+
 https://www.theguardian.com/commentisfree/article/2024/may/28/attacks-rafah-no-accident-idf-losing-strategy
 https://www.theguardian.com/world/article/2024/may/28/spying-hacking-intimidation-israel-war-icc-exposed
 https://www.theguardian.com/global-development/article/2024/may/27/nothing-justifies-what-we-have-witnessed-here-the-doctors-returning-home-from-gaza
@@ -222,6 +315,7 @@ https://www.theguardian.com/world/2024/apr/07/all-we-think-about-is-how-to-stay-
 https://www.theguardian.com/world/video/2024/apr/05/we-want-to-know-why-un-chief-questions-israel-on-196-aid-workers-killed-in-gaza-video
 https://www.theguardian.com/commentisfree/2024/apr/04/slaughter-famine-israel-allies-killing-bombing-aid-workers-west
 https://www.theguardian.com/world/video/2024/apr/03/aid-workers-killed-in-gaza-targeted-deliberately-says-charity-founder-video
+
 https://mondoweiss.net/2024/05/israeli-universities-are-assisting-the-genocide-canadian-universities-refuse-to-cut-ties-with-them/
 https://mondoweiss.net/2024/05/comrades-in-ethnonationalism-why-the-israel-lobby-is-supporting-u-s-politicians-friendly-to-indias-far-right/
 https://mondoweiss.net/2024/05/the-mexico-israel-connection-repression-and-resistance/
@@ -239,12 +333,14 @@ https://mondoweiss.net/2024/04/unleashed-israeli-settlers-rampage-through-west-b
 https://mondoweiss.net/2024/04/come-out-you-animals-how-the-massacre-at-al-shifa-hospital-happened/
 https://mondoweiss.net/2024/03/another-israeli-soldier-admits-to-implementing-the-hannibal-directive-on-october-7/
 https://mondoweiss.net/2024/03/the-story-of-yazan-kafarneh-the-boy-who-starved-to-death-in-gaza/
+
 https://electronicintifada.net/blog?page=20
 https://electronicintifada.net/blogs/nora-barrows-friedman/israel-continues-attack-al-shifa-hospital-systemic-violence
 https://electronicintifada.net/blogs/nora-barrows-friedman/israel-besieges-storms-al-shifa-hospital
 https://electronicintifada.net/blogs/asa-winstanley/israel-killed-israelis-confirms-new-7-october-documentary
 https://electronicintifada.net/blogs/ali-abunimah/ny-times-found-no-7-october-rape-victims-reporter-admits
 https://electronicintifada.net/blogs/ali-abunimah/watch-ny-times-investigation-mass-rape-hamas-falls-apart
+
 https://theintercept.com/2024/02/28/new-york-times-anat-schwartz-october-7/
 https://theintercept.com/collections/israel-palestine/page/26/
 https://theintercept.com/2024/05/24/gaza-palestinian-doctors-hospital-detained-missing-disappeared/
@@ -313,49 +409,74 @@ https://theintercept.com/2023/10/13/israel-settlers-gaza-palestinians-west-bank/
 https://theintercept.com/2023/10/09/israel-hamas-september-11/
 https://theintercept.com/2022/11/25/tantura-movie-israel-palestine/
 https://theintercept.com/2022/10/30/israel-palestine-weed-cannabis/
+
 https://mondoweiss.net/2024/01/family-of-key-case-in-new-york-times-october-7-sexual-violence-report-renounces-story-says-reporters-manipulated-them/
+
 https://theintercept.com/2024/02/27/zaka-october-7-israel-hamas-new-york-times/
+
 https://electronicintifada.net/blogs/asa-winstanley/bbc-distances-itself-7-october-mass-rape-claims
 https://electronicintifada.net/blogs/maureen-clare-murphy/palestinians-seeking-food-aid-killed-israel-starves-gaza
 https://electronicintifada.net/blogs/tamara-nassar/israeli-soldiers-chow-mcdonalds-while-carrying-out-genocide
 https://electronicintifada.net/blogs/nora-barrows-friedman/every-child-gaza-faces-starvation
+
 https://www.unicef.org/mena/press-releases/childrens-lives-threatened-rising-malnutrition-gaza-strip
+
 https://www.alhaq.org/advocacy/22742.html
+
 https://electronicintifada.net/blogs/jon-elmer/palestinian-resistance-groups-joint-operations
 https://electronicintifada.net/blogs/ali-abunimah/new-evidence-emerges-israel-killing-its-own-civilians
 https://electronicintifada.net/blogs/maureen-clare-murphy/patients-die-israeli-troops-storm-gaza-hospital
 https://electronicintifada.net/blogs/maureen-clare-murphy/israel-lays-siege-gaza-hospital-rafah-stares-death-face
 https://electronicintifada.net/blogs/maureen-clare-murphy/israeli-troops-target-ambulances-kill-medic-gaza-city
+
 https://www.newarab.com/analysis/mental-health-palestine-among-worlds-worst
+
 https://electronicintifada.net/blogs/tamara-nassar/israeli-death-squad-assassinates-three-palestinians-hospital
 https://electronicintifada.net/blogs/tamara-nassar/doctor-teacher-and-children-killed-israel-jenin
 https://electronicintifada.net/blogs/maureen-clare-murphy/israel-besieges-hospitals-it-widens-offensive-khan-younis
 https://electronicintifada.net/blogs/tamara-nassar/israel-shutters-al-jazeera-continues-kill-journalists
+
 https://theintercept.com/2022/07/24/google-israel-artificial-intelligence-project-nimbus/
+
 https://www.dailyuw.com/opinion/statement-of-jewish-staff-faculty-and-students-regarding-uw-president-cauce-s-response-to-the/article_633ebe64-1cba-11ef-a292-73bca0524b97.html
+
 https://imeu.org/article/environmental-apartheid-in-palestine
+
 https://dsq-sds.org/index.php/dsq/article/view/6381/5244
+
 https://www.ohchr.org/sites/default/files/2022-03/al-haq.pdf
+
 https://www.amnesty.org/en/latest/campaigns/2017/11/the-occupation-of-water/
 https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/israel-and-occupied-palestinian-territories/
+
 https://www.arij.org/wp-content/uploads/2021/10/The_Olive_Harvest_Season_2021.pdf
+
 https://www.juancole.com/2024/05/indigenous-population-technique.html
+
 https://imeu.org/article/putting-palestinians-on-a-diet-israels-siege-blockade-of-gaza
 https://imeu.org/article/quick-facts-the-palestinian-nakba
 https://imeu.org/article/reference-sheet-israel-gaza-international-law1
 https://imeu.org/article/israels-blockade-of-gaza-is-it-legal
 https://imeu.org/article/is-israel-an-apartheid-state
+
 https://www.juancole.com/2024/05/indigenous-population-technique.html
+
 https://www.counterpunch.org/2024/05/27/calls-for-divestment-from-apartheid-south-africa-gave-todays-pro-palestinian-student-activists-a-blueprint-to-follow/
 https://www.counterpunch.org/2024/05/22/dr-kings-words-on-vietnam-still-ring-true-for-gaza/
+
 https://www.rte.ie/radio/radio1/clips/22401649/
 
 
-
-### Academic Labor Organizing
-https://therealnews.com/the-uc-strike-showed-theres-power-in-a-union-but-the-uaw-still-has-work-to-do
 https://therealnews.com/did-israels-military-kill-its-own-civilians-on-oct-7
 https://therealnews.com/telavivnaksa0604
+
+
+### Academic Labor Organizing
+https://spectrejournal.com/a-tale-of-two-strikes/?utm_source=pocket_mylist
+https://therealnews.com/the-uc-strike-showed-theres-power-in-a-union-but-the-uaw-still-has-work-to-do
+https://livinghistory.as.ucsb.edu/tag/uaw-local-2865/
+https://therealnews.com/the-uc-strike-showed-theres-power-in-a-union-but-the-uaw-still-has-work-to-do
+
 https://therealnews.com/48000-university-of-california-staff-strike-in-the-largest-higher-education-strike-in-us-history
 https://www.laprogressive.com/labor-social-justice/uc-academic-worker-strike
 https://jacobin.com/2020/02/university-california-santa-cruz-graduate-strike
@@ -373,19 +494,25 @@ https://jacobin.com/2014/08/students-at-the-barricades
 https://jacobin.com/2019/05/graduate-worker-unions-nlrb-history
 https://jacobin.com/2019/05/university-illinois-chicago-graduate-worker-strike
 https://jacobin.com/2019/03/university-california-strike-upte-cwa-teachers
+
 https://web.archive.org/web/20210509014138/https://rafa-uc.com/2020/12/cola-wins/
 https://www.versobooks.com/blogs/news/5507-from-the-front-lines-of-the-largest-academic-strike-in-us-history-graduate-students-across-the-uc-system-go-on-strike
+
 https://www.fairucnow.org/wp-content/uploads/2022/11/UAW-housing-paper.pdf
+
 https://www.chronicle.com/article/the-hard-truths-of-the-academic-labor-crisis?cid=gen_sign_in
+
 https://louisville.edu/journal/workplace/issue4/harneymoten.html
+
 https://www.chronicle.com/article/president-pay-public-colleges/
+
 https://docs.google.com/document/d/1aG0gCZhGq9Bqqk2Sk9_cirOFfdRtXQ8joG9wvcbh2FU/edit
+
 https://www.leftvoice.org/we-sold-out-the-people-who-elected-us-uc-bargaining-team-member-speaks-out-about-union-concessions/
 https://docs.google.com/document/d/e/2PACX-1vQ04GGHsxG5zX0t8zhXd35PxT7zBrxt2MR_KdcFL_yPRsWyb43mib6e3qbHibOvMEnW_48-j8WR8ZOw/pub?urp=gmail_link
-https://www.leftvoice.org/wayne-state-student-leaders-reject-administrations-bad-offer-and-plan-to-hold-their-ground-against-repression-and-for-palestine/
-https://www.leftvoice.org/university-of-michigan-campus-protestors-are-keeping-the-focus-on-the-genocide-in-gaza/
-https://www.leftvoice.org/cuny-workers-should-support-the-five-demands-of-the-student-encampment/
-https://www.leftvoice.org/attack-on-pro-palestinian-protestors-at-umich-latest-example-of-democrats-defending-israels-genocide-in-gaza/
+
+
+
 https://www.latimes.com/california/story/2022-11-29/uc-strike-postdocs-researchers-reach-tentative-deal-but-will-honor-pickets
 https://www.theguardian.com/education/video/2024/may/08/hunger-strikes-for-gaza-a-look-inside-the-princeton-student-protests-video
 https://livinghistory.as.ucsb.edu/tag/uaw-local-2865/
