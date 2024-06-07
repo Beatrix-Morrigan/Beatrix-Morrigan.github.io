@@ -7,3 +7,15 @@
     width: 95%;
     height: 50vh;
 }
+
+nav {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: auto;  
+
+}
+
+nav a {
+    margin: 1rem;
+    max-width: 5rem;
+}
