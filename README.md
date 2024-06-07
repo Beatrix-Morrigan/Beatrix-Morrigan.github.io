@@ -4,6 +4,44 @@ gitignore for pics+docs is turned on until i can port my metadata scrubber over
 
 ## link dump, to be sorted for library
 
+
+
+https://www.sproutdistro.com/catalog/zines/security/mobile-phone-activists/
+
+
+https://theanarchistlibrary.org/library/anonymous-never-turn-off-the-phone
+
+https://theanarchistlibrary.org/library/it-s-going-down-your-phone-is-a-cop
+
+
+https://theanarchistlibrary.org/library/anonymous-secrets-and-lies
+
+https://theanarchistlibrary.org/library/elle-armageddon-operational-security-lessons-on-the-fury-road
+
+
+https://theanarchistlibrary.org/library/securitysite-tao-ca-security-culture
+
+
+https://theanarchistlibrary.org/library/crimethinc-staying-safe-in-the-streets
+
+https://theanarchistlibrary.org/library/crimethinc-towards-a-collective-security-culture
+
+
+
+https://theanarchistlibrary.org/library/el-libertario-editorial-collective-on-infiltration
+
+
+
+https://www.sproutdistro.com/catalog/zines/security/security-counter-surveillance/
+
+https://www.sproutdistro.com/catalog/zines/security/digital-security-for-activists/
+
+https://www.sproutdistro.com/catalog/zines/security/threat-library/
+
+https://www.sproutdistro.com/catalog/zines/security/turn-off-your-phone/
+
+
+
 https://www.amnesty.org/en/tech/
 
 
