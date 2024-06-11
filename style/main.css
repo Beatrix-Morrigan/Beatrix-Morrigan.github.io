@@ -62,3 +62,15 @@ header {
 li {
   margin: 1rem;
 }
+
+figure {
+  width:fit-content;
+}
+
+img {
+  max-height: 90vh;
+}
+
+tableau-viz {
+  margin: 1rem;
+}
