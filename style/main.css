@@ -4,6 +4,7 @@
   --light-blue: #8ecae6;
   --golden: #ffb703;
   --orange-color: #fb8500;
+  --light-pink: #FFC7E6;
 }
 
 body {
@@ -73,4 +74,8 @@ img {
 
 tableau-viz {
   margin: 1rem;
+}
+
+blockquote {
+  color: var(--light-pink);
 }
