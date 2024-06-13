@@ -19,3 +19,11 @@ nav a {
     margin: 1rem;
     max-width: 5rem;
 }
+
+img {
+    max-width: 90vw;
+}
+
+body {
+    margin: 1rem;
+}

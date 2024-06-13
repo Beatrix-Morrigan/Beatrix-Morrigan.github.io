@@ -4,6 +4,45 @@ gitignore for pics+docs is turned on until i can port my metadata scrubber over
 
 ## link dump, to be sorted for library
 
+
+https://perilouschronicle.com/tag/uprising/
+https://blackbanner.ghost.io/tag/police-predators/
+https://everytownsupportfund.org/history-of-divestment-on-college-campuses/
+https://www.oxfam.org/en/press-releases/daily-death-rate-gaza-higher-any-other-major-21st-century-conflict-oxfam
+https://africanactivist.msu.edu/organization/210-813-743/
+https://africanactivist.msu.edu/record/210-849-21137/
+https://stract.com/explore?site=https%3A%2F%2Frestofworld.org%2F
+https://www.theregister.com/
+https://www.bellingcat.com/
+https://protocol.com/
+https://www.platformer.news/
+https://www.semafor.com/
+https://www.cjr.org/
+https://www.techpolicy.press/
+https://rsf.org/en
+https://www.internetsociety.org/
+https://www.motherjones.com/
+https://theintercept.com/about/
+https://blog.cryptographyengineering.com/
+https://www.internetgovernance.org/
+https://webfoundation.org/research-publications/
+https://torrentfreak.com/about/
+https://ironholds.org/
+https://www.google.com/search?channel=fs&q=edward+ongweso+jr
+https://www.mollywhite.net/
+https://www.wheresyoured.at/
+https://ooni.org/
+https://linktr.ee/DisCO.coop
+https://basics.disco.coop/1-what-is-disco.html
+https://www.workers.coop/
+https://digitalcommons.coop/
+https://www.solidarityeconomy.coop/
+https://docs.google.com/document/d/1yL5-Q-uPgg1qGtxrKEYOXdsnLPlD6BZamTO3EWCsk4E/edit#
+https://resources.platform.coop/
+https://directory.platform.coop/#1/31.1/-84.8
+https://en.wikipedia.org/wiki/Solidarity_economy
+
+
 https://www.seattletimes.com/business/microsoft/microsoft-employees-call-on-company-to-cancel-contract-with-ice/
 https://www.amnesty.org/en/latest/campaigns/2022/02/israels-system-of-apartheid/
 https://www.amnesty.org/en/documents/mde15/6701/2023/en/
