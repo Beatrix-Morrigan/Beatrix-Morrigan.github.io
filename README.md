@@ -271,7 +271,21 @@ https://theintercept.com/2024/01/10/israel-disinformation-social-media-iron-trut
 
 
 ### Palestine
-
+https://forensic-architecture.org/investigation/the-extrajudicial-execution-of-ahmad-erekat
+https://forensic-architecture.org/investigation/nso-groups-breach-of-private-data-with-fleming-a-covid-19-contact-tracing-software
+https://forensic-architecture.org/investigation/the-beating-of-faisal-al-natsheh
+https://forensic-architecture.org/investigation/herbicidal-warfare-in-gaza
+https://forensic-architecture.org/investigation/conquer-and-divide
+https://forensic-architecture.org/investigation/lethal-warning-the-killing-of-luai-kahil-and-amir-a-nimrah
+https://forensic-architecture.org/investigation/destruction-and-return-in-al-araqib
+https://forensic-architecture.org/investigation/killing-in-umm-al-hiran
+https://forensic-architecture.org/investigation/the-bombing-of-rafah
+https://forensic-architecture.org/investigation/the-gaza-platform-the-2014-gaza-war
+https://forensic-architecture.org/investigation/the-killing-of-nadeem-nawara-and-mohammed-abu-daher
+https://forensic-architecture.org/investigation/knock-on-the-roof-drone-strike-in-beit-lahiya
+https://forensic-architecture.org/investigation/white-phosphorus-in-urban-environments
+https://forensic-architecture.org/investigation/the-killing-of-bassem-abu-rahma
+https://forensic-architecture.org/investigation/the-wall-in-battir
 
 Interview with Mohammad Qasem on Bad Hasbara: The World's Most Moral Podcast https://open.spotify.com/episode/2ABKiRueaISYyYtu8WqZwI?si=306af766e19b47a4
 
@@ -309,8 +323,6 @@ https://x.com/thenation/status/1790079819243278426?t=SlDKqlkdBoF9WG7g8TQ9Pw&s=19
 https://therealnews.com/organising-against-apartheid-why-union-solidarity-with-palestine-matters
 
 https://www.scientists4palestine.com/professor-barghouti-arrested-once-again/
-
-https://www.aljazeera.com/news/2020/6/26/palestine-and-israel-mapping-an-annexation#naksa
 
 https://www.nplusonemag.com/online-only/online-only/a-dangerous-conflation/?affid=x
 
