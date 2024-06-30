@@ -78,3 +78,7 @@ tableau-viz {
 blockquote {
   color: var(--light-pink);
 }
+
+details, summary, figcaption {
+  margin: 1rem;
+}
