@@ -3,6 +3,14 @@
 gitignore for pics+docs is turned on until i can port my metadata scrubber over
 
 ## link dump, to be sorted for library
+https://forsea.co/against-genocide/
+https://www.context.news/money-power-people/long-read/women-flee-conscription-threat-economic-hardship-in-myanmar
+https://english.dvb.no/transgender-rohingya-seek-refuge-and-acceptance-on-bhasan-char/
+https://disabilityvisibilityproject.com/2024/06/30/palestine-x-disability-justice-syllabus/
+https://www.wired.com/story/amazon-google-project-nimbus-israel-idf/
+https://www.bbc.com/news/articles/cger582weplo
+
+
 
 
 https://perilouschronicle.com/tag/uprising/
