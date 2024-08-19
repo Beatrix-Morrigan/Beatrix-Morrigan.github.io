@@ -11,7 +11,60 @@ https://www.wired.com/story/amazon-google-project-nimbus-israel-idf/
 https://www.bbc.com/news/articles/cger582weplo
 
 
+https://x.com/
+https://www.irrawaddy.com/news/inside-the-hidden-frontline-of-myanmars-revolution.html
+https://www.middleeasteye.net/opinion/why-raping-palestinians-legitimate-israeli-military-practice
+https://jacobin.com/2024/08/israel-prisons-torture-palestinians-idf
+https://mondoweiss.net/2024/08/new-lawsuit-takes-canary-mission-to-court-under-anti-doxxing-law/
+https://www.newarab.com/opinion/i-covered-columbia-gaza-encampment-then-i-was-investigated
+https://bookshop.org/p/books/the-mechanic-and-the-luddite-a-ruthless-criticism-of-technology-and-capitalism-jathan-sadowski/21312179
+https://www.thenation.com/article/archive/gavin-newsom-is-creating-a-disaster-for-unhoused-people/
+https://logicmag.io/issue-21-medicine-and-the-body/on-the-militarization-of-computational-cognitive-science-and-neuroscience/
+https://logicmag.io/
+https://logicmag.io/security/
+https://logicmag.io/security/access-denied/
+https://logicmag.io/security/hacking-security/
+https://mondoweiss.net/2024/07/the-reluctant-memoirist-exposes-the-academy/
+https://www.haaretz.com/us-news/2022-05-11/ty-article-opinion/.highlight/the-adls-crazily-irresponsible-crusade-against-anti-zionism/00000180-d638-d452-a1fa-d7ffd8160000
+https://jewishcurrents.org/examining-the-adls-antisemitism-audit
+https://safetythroughsolidarity.substack.com/p/looking-for-antisemitism-at-the-college
+https://wagingnonviolence.org/2023/11/far-right-try-manipulate-gaza-crisis/
+https://madison365.com/jews-want-a-free-palestine-jewish-protesters-and-allies-gather-outside-uw-madison-chancellor-mnookins-home/
+https://therealnews.com/from-east-palestine-to-pike-county-ohios-sacrifice-zone-communities-gather-in-toledo
+https://blackrosefed.org/updated-gaza-statment-2024/
+https://www.hrw.org/news?country%5B0%5D=9638&page=1
+https://www.hrw.org/news/2024/07/17/time-will-tell-how-human-rights-watch-identifies-time-through-analyzing-videos
+https://www.nbcnews.com/news/world/live-blog/israel-hamas-war-live-updates-rcna120252
+https://x.com/?logout=1724014728338
+https://encyclopedia.ushmm.org/content/en/article/the-murder-of-people-with-disabilities
+https://time.com/7002003/donald-trump-disabled-americans-all-in-the-family/
+https://apnews.com/article/migrant-children-provider-lawsuit-0bfd45735aa6d41a4233abe6059f0e1f?taid=6699651969fb6f0001cb80dd
+https://www.wbez.org/education/2024/07/18/northwestern-police-arrest-four-educators-months-after-pro-palestinian-encampment
+https://english.elpais.com/usa/2024-07-14/the-dangers-of-cbp-one-the-app-to-request-asylum-at-the-us-mexico-border-extorsion-kidnappings-and-months-long-waits.html
+https://www.blackagendareport.com/transcript-analyzing-correct-method-combating-american-fascism-george-jackson-1971
+https://www.nytimes.com/interactive/2024/07/16/world/middleeast/israel-hostage-rescue-nuseirat.html
+https://www.isocfoundation.org/2024/07/what-is-the-role-of-the-internet-in-natural-disasters-and-emergencies/
+https://libcom.org/article/no-badjacketing-state-wants-kill-us-lets-not-cooperate
+https://al-shabaka.org/commentaries/student-organizing-change-making-on-university-campuses/
+https://www.dropsitenews.com/p/the-resistance-will-continue-hamas
+https://www.dropsitenews.com/
+https://organizingmythoughts.org/take-a-deep-breath-and-think-about-what-you-need-to-do-2/
+https://lareviewofbooks.org/article/how-israel-lost-america/
+https://www.thedriftmag.com/the-fortress-university/
 
+https://files.justinpickard.net/pdfs/gonzo-futurist-manifesto.pdf
+https://toolkit.climate.gov/#case-studies
+https://toolkit.climate.gov/case-studies/tulalip-tribes-saving-their-sacred-salmon
+https://nr.tulaliptribes.com/Programs/Wildlife/Beaver
+https://www.scientificamerican.com/blog/observations/scientists-have-been-underestimating-the-pace-of-climate-change/
+https://thebaffler.com/latest/how-it-feels-dastidar
+https://www.wearesavera.org/
+https://linktr.ee/workshops4gaza
+https://www.borderforensics.org/
+https://www.immigrantdefenseproject.org/
+https://immigrantjusticenetwork.org/
+https://www.bellyofthebeastcuba.com/
+https://www.bellyzine.net/essays
 
 https://perilouschronicle.com/tag/uprising/
 https://blackbanner.ghost.io/tag/police-predators/
@@ -295,7 +348,6 @@ https://forensic-architecture.org/investigation/white-phosphorus-in-urban-enviro
 https://forensic-architecture.org/investigation/the-killing-of-bassem-abu-rahma
 https://forensic-architecture.org/investigation/the-wall-in-battir
 
-Interview with Mohammad Qasem on Bad Hasbara: The World's Most Moral Podcast https://open.spotify.com/episode/2ABKiRueaISYyYtu8WqZwI?si=306af766e19b47a4
 
 https://theanarchistlibrary.org/category/author/fauda
 https://blackrosefed.org/wp-content/uploads/2023/10/fauda-interview.pdf
