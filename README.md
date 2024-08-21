@@ -3,28 +3,29 @@
 gitignore for pics+docs is turned on until i can port my metadata scrubber over
 
 ## link dump, to be sorted for library
-https://forsea.co/against-genocide/
-https://www.context.news/money-power-people/long-read/women-flee-conscription-threat-economic-hardship-in-myanmar
-https://english.dvb.no/transgender-rohingya-seek-refuge-and-acceptance-on-bhasan-char/
+
+https://crimethinc.com/2013/10/04/feature-deserting-the-digital-utopia
+
 https://disabilityvisibilityproject.com/2024/06/30/palestine-x-disability-justice-syllabus/
 https://www.wired.com/story/amazon-google-project-nimbus-israel-idf/
 https://www.bbc.com/news/articles/cger582weplo
 
 
-https://x.com/
-https://www.irrawaddy.com/news/inside-the-hidden-frontline-of-myanmars-revolution.html
+
 https://www.middleeasteye.net/opinion/why-raping-palestinians-legitimate-israeli-military-practice
 https://jacobin.com/2024/08/israel-prisons-torture-palestinians-idf
 https://mondoweiss.net/2024/08/new-lawsuit-takes-canary-mission-to-court-under-anti-doxxing-law/
 https://www.newarab.com/opinion/i-covered-columbia-gaza-encampment-then-i-was-investigated
 https://bookshop.org/p/books/the-mechanic-and-the-luddite-a-ruthless-criticism-of-technology-and-capitalism-jathan-sadowski/21312179
 https://www.thenation.com/article/archive/gavin-newsom-is-creating-a-disaster-for-unhoused-people/
+
 https://logicmag.io/issue-21-medicine-and-the-body/on-the-militarization-of-computational-cognitive-science-and-neuroscience/
 https://logicmag.io/
 https://logicmag.io/security/
 https://logicmag.io/security/access-denied/
 https://logicmag.io/security/hacking-security/
 https://mondoweiss.net/2024/07/the-reluctant-memoirist-exposes-the-academy/
+
 https://www.haaretz.com/us-news/2022-05-11/ty-article-opinion/.highlight/the-adls-crazily-irresponsible-crusade-against-anti-zionism/00000180-d638-d452-a1fa-d7ffd8160000
 https://jewishcurrents.org/examining-the-adls-antisemitism-audit
 https://safetythroughsolidarity.substack.com/p/looking-for-antisemitism-at-the-college
@@ -32,6 +33,7 @@ https://wagingnonviolence.org/2023/11/far-right-try-manipulate-gaza-crisis/
 https://madison365.com/jews-want-a-free-palestine-jewish-protesters-and-allies-gather-outside-uw-madison-chancellor-mnookins-home/
 https://therealnews.com/from-east-palestine-to-pike-county-ohios-sacrifice-zone-communities-gather-in-toledo
 https://blackrosefed.org/updated-gaza-statment-2024/
+
 https://www.hrw.org/news?country%5B0%5D=9638&page=1
 https://www.hrw.org/news/2024/07/17/time-will-tell-how-human-rights-watch-identifies-time-through-analyzing-videos
 https://www.nbcnews.com/news/world/live-blog/israel-hamas-war-live-updates-rcna120252
@@ -42,11 +44,13 @@ https://apnews.com/article/migrant-children-provider-lawsuit-0bfd45735aa6d41a423
 https://www.wbez.org/education/2024/07/18/northwestern-police-arrest-four-educators-months-after-pro-palestinian-encampment
 https://english.elpais.com/usa/2024-07-14/the-dangers-of-cbp-one-the-app-to-request-asylum-at-the-us-mexico-border-extorsion-kidnappings-and-months-long-waits.html
 https://www.blackagendareport.com/transcript-analyzing-correct-method-combating-american-fascism-george-jackson-1971
-https://www.nytimes.com/interactive/2024/07/16/world/middleeast/israel-hostage-rescue-nuseirat.html
-https://www.isocfoundation.org/2024/07/what-is-the-role-of-the-internet-in-natural-disasters-and-emergencies/
+
+
 https://libcom.org/article/no-badjacketing-state-wants-kill-us-lets-not-cooperate
 https://al-shabaka.org/commentaries/student-organizing-change-making-on-university-campuses/
+
 https://www.dropsitenews.com/p/the-resistance-will-continue-hamas
+
 https://www.dropsitenews.com/
 https://organizingmythoughts.org/take-a-deep-breath-and-think-about-what-you-need-to-do-2/
 https://lareviewofbooks.org/article/how-israel-lost-america/
@@ -66,13 +70,10 @@ https://immigrantjusticenetwork.org/
 https://www.bellyofthebeastcuba.com/
 https://www.bellyzine.net/essays
 
-https://perilouschronicle.com/tag/uprising/
 https://blackbanner.ghost.io/tag/police-predators/
 https://everytownsupportfund.org/history-of-divestment-on-college-campuses/
 https://www.oxfam.org/en/press-releases/daily-death-rate-gaza-higher-any-other-major-21st-century-conflict-oxfam
-https://africanactivist.msu.edu/organization/210-813-743/
-https://africanactivist.msu.edu/record/210-849-21137/
-https://stract.com/explore?site=https%3A%2F%2Frestofworld.org%2F
+
 https://www.theregister.com/
 https://www.bellingcat.com/
 https://protocol.com/
@@ -104,8 +105,6 @@ https://directory.platform.coop/#1/31.1/-84.8
 https://en.wikipedia.org/wiki/Solidarity_economy
 
 
-https://www.seattletimes.com/business/microsoft/microsoft-employees-call-on-company-to-cancel-contract-with-ice/
-https://www.amnesty.org/en/latest/campaigns/2022/02/israels-system-of-apartheid/
 https://www.amnesty.org/en/documents/mde15/6701/2023/en/
 https://www.unocha.org/publications/report/occupied-palestinian-territory/fact-sheet-movement-and-access-west-bank-august-2023
 https://www.ohchr.org/sites/default/files/2024-03/Palestine-March2024.pdf
@@ -136,17 +135,15 @@ https://genocide.vc/y-combinator-ceo-garry-tan-promotes-genocide-and-silences-pa
 https://nyupress.org/9781479837243/algorithms-of-oppression/
 https://www.nbcnews.com/tech/tech-news/we-did-not-sign-develop-weapons-microsoft-workers-protest-480m-n974761
 https://www.geekwire.com/2020/palestinian-activists-microsoft-employees-demand-company-cut-ties-anyvision-citing-civil-rights-violations/
-https://africanactivist.msu.edu/organization/210-813-743/
-https://africanactivist.msu.edu/record/210-849-21137/
+
 https://www.businessinsider.com/microsoft-war-over-israel-hamas-gaza-war-satya-nadella-2023-11
-https://blog.torproject.org/surveillance-as-a-service-global-impact-of-israeli-defense-technologies-on-privacy-human-rights/
 https://theintercept.com/2019/08/25/border-patrol-israel-elbit-surveillance/
 https://www.bloomberg.com/news/features/2017-02-02/how-do-israel-s-tech-firms-do-business-in-saudi-arabia-very-quietly
 https://www.middleeasteye.net/news/abu-dhabi-announces-launch-israeli-installed-mass-surveillance-system
 https://www.haaretz.com/israel-news/2018-10-20/ty-article-magazine/.premium/israels-cyber-spy-industry-aids-dictators-hunt-dissidents-and-gays/0000017f-e9a9-dc91-a17f-fdadde240000
 https://gulfstateanalytics.com/pegasus-as-a-case-study-of-evolving-ties-between-the-united-arab-emirates-and-israel/
 https://www.haaretz.com/israel-news/security-aviation/2023-02-28/ty-article/fake-friends-leak-reveals-israeli-firms-turning-social-media-into-spy-tech/00000186-7f75-d079-ade7-ff7507970000
-https://www.haaretz.com/israel-news/2018-10-20/ty-article-magazine/.premium/israels-cyber-spy-industry-aids-dictators-hunt-dissidents-and-gays/0000017f-e9a9-dc91-a17f-fdadde240000
+
 https://www.aljazeera.com/news/2023/1/15/israels-cognyte-won-myanmar-spyware-tender-before-coup
 https://www.wsj.com/articles/ex-ceo-of-nso-group-raises-33-6-million-for-israeli-cyber-startup-ae8e7399
 https://www.theverge.com/2024/3/27/24114043/israel-facial-recognition-gaza-strip-corsight
@@ -236,7 +233,6 @@ https://crimethinc.com/zines/why-we-dont-make-demands
 
 https://crimethinc.com/2015/05/05/feature-why-we-dont-make-demands
 
-https://archive.org/details/affinity-fraud
 
 https://ia801706.us.archive.org/5/items/blocing-up/blocing-up-imposed.pdf
 
@@ -250,8 +246,6 @@ https://library.lol/main/B36E3B57FD09623C24999A0A7E08B0EA
 
 https://x.com/abolitionstudy/status/1792026112194670937?t=qnv9-3KvzMHuRlqJt2HYuQ&s=19
 
-https://www.indigenousaction.org/accomplices-not-allies-abolishing-the-ally-industrial-complex/
-
 https://peoplescdc.org/2022/09/12/masking/
 
 https://peoplescdc.org/2023/02/12/covid-safety-for-protests/
@@ -261,7 +255,6 @@ https://x.com/rechelon/status/1791258846138098012?t=0CeaLCKcf89QcLEuey3uUg&s=19
 https://reclaimuc.blogspot.com/2012/06/notes-on-ouster-of-uva-president-teresa.html
 https://reclaimuc.blogspot.com/
 
-https://mronline.org/2020/07/03/anatomy-of-a-counter-insurgency/
 
 
 
@@ -271,7 +264,6 @@ https://umap.openstreetmap.fr/en/map/active-military-contracts-between-israel-us
 
 https://palestineaction.org/leonardo-internet-access/
 
-https://scalawagmagazine.org/2023/05/cop-city-atlanta-history-timeline/?utm_campaign=scal-social&utmy_source=twitter
 
 https://haters.noblogs.org/files/2024/05/UCLA-Communique.pdf
 
@@ -280,7 +272,6 @@ https://abolishtupd.wordpress.com/wp-content/uploads/2023/05/bad-apples-2022.pdf
 https://haters.noblogs.org/files/2024/05/Exiting-Law.pdf
 https://haters.noblogs.org/files/2024/05/Exiting-Law-imposed.pdf
 
-https://www.sproutdistro.com/catalog/zines/direct-action/that-horse-is-a-weapon/
 
 https://www.palestineiseverywhere.com/
 
@@ -332,21 +323,6 @@ https://theintercept.com/2024/01/10/israel-disinformation-social-media-iron-trut
 
 
 ### Palestine
-https://forensic-architecture.org/investigation/the-extrajudicial-execution-of-ahmad-erekat
-https://forensic-architecture.org/investigation/nso-groups-breach-of-private-data-with-fleming-a-covid-19-contact-tracing-software
-https://forensic-architecture.org/investigation/the-beating-of-faisal-al-natsheh
-https://forensic-architecture.org/investigation/herbicidal-warfare-in-gaza
-https://forensic-architecture.org/investigation/conquer-and-divide
-https://forensic-architecture.org/investigation/lethal-warning-the-killing-of-luai-kahil-and-amir-a-nimrah
-https://forensic-architecture.org/investigation/destruction-and-return-in-al-araqib
-https://forensic-architecture.org/investigation/killing-in-umm-al-hiran
-https://forensic-architecture.org/investigation/the-bombing-of-rafah
-https://forensic-architecture.org/investigation/the-gaza-platform-the-2014-gaza-war
-https://forensic-architecture.org/investigation/the-killing-of-nadeem-nawara-and-mohammed-abu-daher
-https://forensic-architecture.org/investigation/knock-on-the-roof-drone-strike-in-beit-lahiya
-https://forensic-architecture.org/investigation/white-phosphorus-in-urban-environments
-https://forensic-architecture.org/investigation/the-killing-of-bassem-abu-rahma
-https://forensic-architecture.org/investigation/the-wall-in-battir
 
 
 https://theanarchistlibrary.org/category/author/fauda
@@ -719,8 +695,6 @@ https://docs.google.com/document/d/e/2PACX-1vQ04GGHsxG5zX0t8zhXd35PxT7zBrxt2MR_K
 
 https://www.latimes.com/california/story/2022-11-29/uc-strike-postdocs-researchers-reach-tentative-deal-but-will-honor-pickets
 
-h
-https://awdudotnet.wordpress.com/2014/09/17/what-was-uaw-2865-like-before-awdu-took-power-in-2011/
 
 https://cucfa.org/2023/01/uaw-ucaft-cucfa-scfa-return-to-work-grading/
 https://cucfa.org/2024/05/faqs-for-senate-faculty-possible-strike/
@@ -783,8 +757,6 @@ https://theintercept.com/2023/07/11/uc-san-diego-graduate-student-workers-union/
 
 https://www.the-scientist.com/up-to-48-000-university-of-california-academic-workers-go-on-strike-70757
 
-https://femmagazine.com/uc-strike-primer/
-
 https://inthesetimes.com/article/university-of-california-strike-rank-and-file
 
 https://timesofsandiego.com/education/2022/12/23/uc-graduate-student-workers-researchers-finalize-contracts-to-end-40-day-strike/
@@ -795,8 +767,6 @@ https://www.independent.com/2022/05/10/graduate-students-at-uc-santa-barbara-ral
 https://www.independent.com/2024/05/31/uc-santa-barbara-academic-workers-to-go-on-strike-on-monday/
 
 https://electronicintifada.net/blogs/charlotte-silver/are-us-labor-unions-finally-speaking-out-palestine
-
-https://viewpointmag.com/2014/04/14/class-size-and-class-struggle-organizing-lessons-from-the-ucsc-strike/
 
 https://inthesetimes.com/article/uc-grad-student-employees-declare-solidarity-with-service-workers
 
