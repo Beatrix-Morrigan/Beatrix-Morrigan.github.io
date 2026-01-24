@@ -77,10 +77,39 @@ Table of Contents
 
     <ul>
 
-      <li>
-        <a target="_self" href="#mobile-phone-security">Mobile Phone Security</a>
-      </li>
+
     
+
+
+      <li>
+        <a target="_self" href="#locking-down-what-you-have">Locking Down What You Have</a>
+
+        <ul>
+
+        <li>
+          <a target="_self" href="#passwords">Passwords, PIN Codes, FaceID, Fingerprints</a>
+        </li>
+
+        <li>
+          <a target="_self" href="#mobile-devices">Mobile Devices</a>
+        </li>
+
+        <li>
+          <a target="_self" href="#laptops-desktops-external-drives">Laptops, Desktops, Flash Drives, and External Hard Drives</a>
+        </li>
+
+        <li>
+          <a target="_self" href="#the-cloud">"The Cloud"</a>
+        </li>
+
+        <li>
+          <a target="_self" href="#metadata">Metadata</a>
+        </li>
+
+        </ul>
+
+      </li>
+
       <li>
         <a target="_self" href="#recommended-apps-services">Recommended Apps and Services</a>
       </li>
@@ -114,7 +143,7 @@ See also: <a href="./tactics.html">Tactics</a>, <a href="./community.html">Commu
   <ul>
 
     <li>
-      Front Line Defenders' <a target="_blank" href="https://www.frontlinedefenders.org/en/tools-hrds">Tools for Human Rights Defenders</a>, specifically their <a target="_blank" href="https://www.frontlinedefenders.org/en/workbook-security">Workbook on Security</a>
+      Front Line Defenders' <a target="_blank" href="https://www.frontlinedefenders.org/en/tools-hrds">Tools for Human Rights Defenders</a>, specifically their <a target="_blank" href="https://www.frontlinedefenders.org/en/resource-publication/workbook-security-practical-steps-human-rights-defenders-risk">Workbook on Security</a>
     </li>
 
     <li>
@@ -221,6 +250,589 @@ See also: <a href="./tactics.html">Tactics</a>, <a href="./community.html">Commu
 <article id="digital-security">
   <h3> Digital </h3>
 
+  <h4 id="locking-down-what-you-have">Locking Down What You Have</h4>
+
+  <h5 id="passwords">Passwords, PIN Codes, FaceID, Fingerprints</h5>
+
+<ul>
+  <li> If you learn only one thing from this page, let it be this:
+    <b>
+      DO NOT USE FACEID, FINGERPRINTS, OR ANY OTHER FORM OF BIOMETRIC UNLOCK ON ANY DEVICE <i>EVER</i>
+    </b>. 
+  </li>
+
+  <li>
+You may have seen that a <a target="_blank" href="https://www.americanbar.org/groups/law_practice/resources/law-technology-today/2019/can-police-force-you-to-unlock-your-cell-phone/">2025 ruling in California</a> challenged <a target="_blank" href="https://www.purduegloballawschool.edu/blog/constitutional-law/fifth-amendment-biometrics">previous rulings that held that law enforcement does not need a warrant or your consent</a> to hold your phone in front of your face or to place your finger on a fingerprint sensor. 
+<br>
+To this, I would remind the reader that <b>police are rarely well-informed on current case law</b>, nor are they required to be; I would further remind the reader that <b>the damage done by revealing data via an unlawful search cannot be undone by a countersuit after the fact</b>.
+  </li>
+
+  <li>
+    see the below comic for advice on coming up with strong passwords:
+    <figure>
+      <img src="https://imgs.xkcd.com/comics/password_strength.png" alt="((The comic illustrates the relative strength of passwords assuming basic knowledge of the system used to generate them. A set of boxes is used to indicate how many bits of entropy a section of the password provides. The comic is laid out with 6 panels arranged in a 3x2 grid. On each row, the first panel explains the breakdown of a password, the second panel shows how long it would take for a computer to guess, and the third panel provides an example scene showing someone trying to remember the password.))
+
+[[The password ''Tr0ub4dor&3'' is shown in the centre of the panel. A line from each annotation indicates the word section the comment applies to.]]
+Uncommon (non-gibberish) base word [[Highlighting the base word - 16 bits of entropy.]]
+Caps? [[Highlighting the first letter - 1 bit of entropy.]]
+Common Substitutions [[Highlighting the letters 'a' (substituted by '4') and both 'o's (the first of which is substituted by '0') - 3 bits of entropy.]]
+Punctuation [[Highlighting the symbol appended to the word - 4 bits of entropy.]]
+Numeral [[Highlighting the number appended to the word - 3 bits of entropy.]]
+Order unknown [[Highlighting the appended characters - 1 bit of entropy.]]
+(You can add a few more bits to account for the fact that this is only one of a few common formats.)
+
+~28 bits of entropy
+2^28 = 3 days at 1000 guesses
+sec
+(Plausible attack on a weak remote web service. Yes, cracking a stolen hash is faster, but it's not what the average user should worry about.)
+Difficulty to guess: Easy.
+
+[[A person stands scratching their head trying to remember the password.]]
+Person: Was it trombone? No, Troubador. And one of the Os was a zero?
+Person: And there was some symbol...
+Difficulty to remember: Hard.
+
+[[The passphrase ''correct horse battery staple'' is shown in the centre of the panel.]]
+Four random common words {{Each word has 11 bits of entropy.}}
+
+~44 bits of entropy.
+2^44 = 550 years at 1000 guesses
+sec
+Difficulty to guess: Hard.
+
+[[A person is thinking, in their thought bubble a horse is standing to one side talking to an off-screen observer. An arrow points to a staple attached to the side of a battery.]]
+Horse: That's a battery staple.
+Observer: Correct!
+Difficulty to remember: You've already memorized it
+
+((The caption below the comic reads: Through 20 years of effort, we've successfully trained everyone to use passwords that are hard for humans to remember, but easy for computers to guess.))
+
+{{Title text: To anyone who understands information theory and security and is in an infuriating argument with someone who does not (possibly involving mixed case), I sincerely apologize.}}">
+    </figure>
+    <figcaption>
+      source: <a>xkcd</a>
+    </figcaption>
+  </li>
+
+        <li>
+          <a target="_blank" href="https://ssd.eff.org/module/animated-overview-how-make-super-secure-password-using-dice">Animated Overview: How to Make a Super-Secure Password Using Dice</a>
+        </li>
+
+  <li> do not reuse passwords. use a different password for each application that requires one. use a <a target="_self" href="#password-managers">password manager</a> to store your unique passwords.
+  </li>
+
+        <li>
+          <a target="_blank" href="https://ssd.eff.org/module/animated-overview-using-password-managers-stay-safe-online">Animated Overview: Using Password Managers to Stay Safe Online</a>
+        </li>
+
+        <li>
+          <a target="_blank" href="https://freedom.press/digisec/blog/ask-a-security-trainer-what-about-the-password-for-my-password-manager/">Ask a security trainer: What about the password for my password manager?</a>
+        </li>
+
+</ul>
+
+  <h5 id="mobile-devices">Mobile Devices</h5>
+
+  <ul>
+
+    <li>
+      iPhones
+
+      <ul>
+
+        <li>
+          <a target="_blank" href="https://ssd.eff.org/module/how-to-get-to-know-iphone-privacy-and-security-settings">How to: Get to Know iPhone Privacy and Security Settings</a>
+        </li>
+
+        <li>
+          <a target="_blank" href="https://ssd.eff.org/module/how-encrypt-your-iphone">How to: Encrypt Your iPhone</a>
+        </li>
+
+        <li>
+          <a target="_blank" href="https://ssd.eff.org/module/how-to-enable-lockdown-mode-on-iphone">How to: Enable Lockdown Mode on iPhone</a>
+        </li>
+      </ul>
+    </li>
+
+    <li>
+      Android
+
+      <ul>
+
+        <li>
+          <a target="_blank" href="https://ssd.eff.org/module/how-to-get-to-know-android-privacy-and-security-settings">How to: Get to Know Android Privacy and Security Settings</a>
+        </li>
+
+      </ul>
+
+    </li>
+
+
+        <li>
+          <a target="_blank" href="https://ssd.eff.org/playlist/privacy-breakdown-of-mobile-phones">Privacy Breakdown of Mobile Phones</a>
+        </li>
+
+
+
+<!--
+        <li>
+          <a target="_blank" href=""></a>
+        </li>
+      -->
+    <li>
+      <a target="_blank" href="https://www.sproutdistro.com/catalog/zines/security/mobile-phone-activists/">"Mobile Phone Security for Activists and Agitators"</a> by Håkan Geijer
+    </li>
+
+    <li>
+      <a target="_blank" href="https://freedom.press/digisec/blog/ask-a-security-trainer-is-mobile-device-location-tracking-a-real-risk/">
+        Ask a security trainer: Is mobile device location tracking a real risk?
+      </a>
+    </li>
+
+    <li>
+      specifically on burner phones
+      <ul>
+      <li>
+        <a target="_blank" href="https://theanarchistlibrary.org/library/elle-armageddon-burner-phone-best-practices">Burner Phone Best Practices</a> by Elle Armageddon
+      </li>
+
+      <li>
+        <a target="_blank" href="https://berkmananarchy.noblogs.org/post/2023/11/02/zine-submission-how-and-why-to-use-a-burner-phone/">How (and Why) to Use a Burner Phone</a> from Berkman School of Anarchy
+      </li>
+
+      </ul>
+
+    </li>
+
+    <li>
+      <a target="_blank" href="https://themarkup.org/the-breakdown/2024/05/04/how-do-i-prepare-my-phone-for-a-protest-updated-2024">How Do I Prepare My Phone for a Protest?</a> by Dan Phiffer, Tomas Apodaca, Miles Hilton, and Maddy Varner for The Markup on May 4 2024
+    </li>
+
+        <li>
+          <a target="_blank" href="https://ssd.eff.org/module/how-to-use-tor-on-android-and-iphone">How to: Use Tor on Android and iPhone</a>
+        </li>
+
+
+        <li>
+          <a target="_blank" href="https://freedom.press/digisec/blog/ask-a-security-trainer-how-do-i-get-secure-phone-backups/">Ask a security trainer: How do I get secure phone backups?</a>
+        </li>
+
+        <li>
+          <a target="_blank" href="https://freedom.press/digisec/blog/advice-column-6/">Advice column: Is my phone always listening?</a>
+        </li>
+
+
+  </ul>
+
+<h5 id="laptops-desktops-external-drives">Laptops, Desktops, Flash Drives, and External Hard Drives</h5>
+
+
+<ul>
+
+  <li>
+
+encrypt all of your USB drives, external hard drives, all of the storage drives in your computers, all of them, <i>before</i> you put anything on them. 
+
+<ul>
+
+  <li>
+    <a target="_blank" href="https://ssd.eff.org/module/how-encrypt-your-windows-device">
+How to: Encrypt Your Windows, Mac, or Linux Computer
+    </a>
+</li>
+
+    </ul>
+  </li>
+
+
+<li>
+  ensure that all login accounts on your computer have a strong password
+</li>
+
+  <li>
+    be very, very careful about where you save any recovery keys or passwords for encrypted machines. 
+
+    <blockquote id="bitlocker-keys-warning">
+      [Microsoft spokesperson Charles Chamberlayne] said [Microsoft] receives around 20 requests for BitLocker keys per year and in many cases, the user has not stored their key in the cloud making it impossible for Microsoft to assist.
+
+      <br><br>
+[...]
+      <br><br>
+Both [Matt Green, cryptography expert and associate professor at the Johns Hopkins University Information Security Institute,] and [Jennifer Granick, surveillance and cybersecurity counsel at the ACLU,] said Microsoft could have users install a key on a piece of hardware like a thumb drive, which would act as a backup or recovery key. Microsoft does allow for that option, but it’s not the default setting for BitLocker on Windows PCs.
+<br><br>
+Without the encryption keys from Microsoft, the FBI would’ve struggled to get any useful data from the computers. BitLocker’s encryption algorithms have proven impenetrable to prior law enforcement attempts to break in, according to a Forbes review of historical cases. In early 2025, a forensic expert with ICE’s Homeland Security Investigations unit wrote in a court document that his agency did “not possess the forensic tools to break into devices encrypted with Microsoft BitLocker, or any other style of encryption.” In one previous case, federal investigators obtained keys by discovering that a suspect had stored them on unencrypted drives.
+<br><br>
+Now that the FBI and other agencies know Microsoft will comply with warrants similar to the Guam case, they’ll likely make more demands for encryption keys, Green said. “My experience is, once the U.S. government gets used to having a capability, it's very hard to get rid of it.”
+<br><br>
+      - from <a target="_blank" href="https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data/">Microsoft Gave FBI Keys To Unlock Encrypted Data, Exposing Major Privacy Flaw</a> by Thomas Brewster for Forbes on January 23 2026
+
+    </blockquote>
+  </li>
+
+  <li>
+    <a target="_blank" href="https://www.usbmakers.com/how-to-encrypt-a-usb-flash-drive">How to Encrypt a USB Flash Drive</a> with BitLocker (Windows), Veracrypt (Windows, Linux), or macOS' Disk Utility (Apple).
+
+    <ul>
+      <li>
+        see <a target="_self" href="#bitlocker-keys-warning">my warning above</a> about taking care where you store any decryption or recovery keys
+      </li>
+    </ul>
+
+  </li>
+
+
+      <li>
+    <a target="_blank" href="https://www.youtube.com/watch?v=AQ5qm1Z0EHw">How To Encrypt Any USB Drive With VeraCrypt</a>
+    </li>
+
+    <li>
+      <a target="_blank" href="https://www.youtube.com/watch?v=lWSEpFXxV3U">How to Encrypt USB Drive with Bitlocker </a>
+    </li>
+
+    <li>
+      <a target="_blank" href="https://www.youtube.com/watch?v=qbNb2UMD98Q">How to Encrypt external USB drives on macOS in 3 minutes</a>
+    </li>
+
+
+</ul>
+
+
+
+
+<h5>"The Cloud"</h5>
+
+<ul>
+
+<li>
+  "the cloud" is just warehouses of computers that someone else owns and operates. the people who operate these warehouses will do different things to try to convince you that your data is actually private and safe with them - you have to judge on a case-by-case basis whether you can rely on those promises, or you have to add some extra protections that allow you not to rely on those promises quite as much.
+</li>
+
+  <li>
+you can add another layer of encryption to the files you store "on the cloud" with the open-source application <a target="_blank" href="https://cryptomator.org/">Cryptomator</a>
+  </li>
+
+<li>
+when you do use "the cloud", make sure you're always aware of your account settings and which devices are synchronizing what data
+<ul>
+            <li>
+            <a target="_blank" href="https://support.apple.com/en-us/108756#:~:text=On%20iPhone%20or%20iPad,Turn%20on%20Advanced%20Data%20Protection">How to turn on Advanced Data Protection for iCloud</a>
+          </li>
+</ul>
+
+</li>
+
+</ul>
+
+<h5 id="metadata">Metadata</h5>
+
+<ul>
+
+<li>
+  <a target="_blank" href="https://www.theverge.com/21281897/how-to-hide-faces-scrub-metadata-photograph-video-protest">How to hide faces and scrub metadata when you photograph a protest </a>
+</li>
+
+<li>
+  more to be added
+</li>
+
+</ul>
+
+
+<h5>Messages and Emails</h5>
+
+<ul>
+
+<li>
+
+  regular SMS texts and emails are not encrypted. You could, technically, put your texts and emails through the cryptographic algorithms yourself and then send them, then your friend could decrypt them algorithmically - but that sounds horrible to most people. A more practical approach is to use messaging and emailing platforms that build the encryption into the application. when this is done properly, it's called end-to-end encryption
+
+  <ul>
+
+<li>
+you can learn more about end-to-end encryption in this article: <a target="_blank" href="https://crimethinc.com/2017/03/08/end-to-end-encryption-101-what-does-e2ee-do-and-does-vault-7-mean-its-useless">End-to-End Encryption 101</a> by Elle Armageddon
+</li>
+
+<li>
+  see my recommendations below for end-to-end encrypted <a target="_self" href="#e2ee-messengers">messaging applications</a> and <a target="_self" href="#e2ee-email">email services</a>
+</li>
+
+  </ul>
+</li>
+
+</ul>
+
+<div>
+<h4 id="recommended-apps-services">Recommended Apps and Services</h4>
+
+all recommended tools are free and open source unless otherwise noted.
+
+<ul>
+  <li>
+    <a target="_blank" href="https://joindeleteme.com/">Delete Me</a> - a paid service to scrub your personal information from search engines and data brokers. 
+    <br>
+    Delete Me's business is to do the annoying work for you, to get your information off of data broker sites. You can do this work yourself, as described in the following guides:
+
+    <ul>
+<li>
+  <a target="_blank" href="https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List">Big Ass Data Broker Opt-Out List</a>
+</li>
+
+<li>
+  <a target="_blank" href="https://www.keepersecurity.com/blog/2023/07/25/how-to-remove-your-information-from-people-search-sites/">How To Remove Your Information From People Search Sites</a> by Aranza Trevino for Keeper Security on July 25 2023
+</li>
+
+<li>
+  <a target="_blank" href="https://pimeyes.com/en/opt-out-request-form">Opt-Out Request Form</a> for PimEyes, an "online face search engine"
+</li>
+
+    </ul>
+
+  </li>
+
+  <li id="e2ee-messengers">
+  End-to-End Encrypted Messaging & Calling
+
+    <ul>
+      <li>
+        <a target="_blank" href="https://signal.org/">Signal</a> - like regular texting, group chatting, and calling, but with privacy built in - <b>best choice for most users</b>
+        <ul>
+
+            <li>
+          for advice on best practices with Signal, see <a target="_blank" href="https://freedom.press/training/locking-down-signal/">Locking Down Signal</a> by Martin Shelton for Freedom of the Press Foundation on February 22 2024
+          </li>
+
+          <li>
+          for a technical report on why Signal is the best choice of messaging app for digital privacy, see <a target="_blank" href="https://www.techpolicy.press/what-is-secure-an-analysis-of-popular-messaging-apps/">What is Secure? An Analysis of Popular Messaging Apps</a> from Tech Policy Press in June 2023
+          </li>
+
+          <li>
+            <a target="_blank" href="https://freedom.press/digisec/blog/ask-a-security-trainer-checking-identities-in-signal/">
+              Ask a security trainer: Checking identities in Signal
+            </a>
+          </li>
+
+        </ul>
+      </li>
+
+  <li>
+    <a target="_blank" href="https://meet.jit.si/">Jitsi</a> - video conferencing platform, similar to Zoom. paid service upgrades available.
+  </li>
+
+      <li>
+        <a target="_blank" href="https://matrix.org/ecosystem/clients/">Matrix</a> - like Discord, Slack, Mattermost, or IRC
+      </li>
+
+      <li>
+        <a target="_blank" href="https://briarproject.org/">Briar</a> and 
+        <a target="_blank" href="https://docs.cwtch.im/">Cwtch</a> - like Signal, but peer-to-peer only. recommended for advanced users.
+      </li>
+
+    </ul>
+  </li>
+
+<li id="e2ee-email">
+  End-to-End Encrypted Email
+
+  <ul>
+
+    <li>
+      <a target="_blank" href="https://proton.me/mail">Proton Mail</a>
+    </li>
+
+    <li>
+      <a target="_blank" href="https://tuta.com/">Tuta</a>
+    </li>
+
+  </ul>
+
+</li>
+
+  <li id="password-managers">
+    <a target="_blank" href="https://1password.com/">1Password</a> - paid closed-source password management service. 
+    <ul>
+      <li>
+        though 1Password is closed-source, I'm willing to forgive that for a few reasons:
+        <ul>
+          <li>
+        1Password uses, ironically, a 2-key cryptographic system to encrypt your password vault (don't worry, you only have to remember one day-to-day).
+        </li>
+
+        <li>they publish the <a target="_blank"  href="https://support.1password.com/security-assessments/">results of regular 3rd-party audits and certifications</a> (this is industry-standard practice, but I like what I see of how they do it anyways) </li>
+        
+        <li>
+          they've published a <a target="_blank"  href="https://1passwordstatic.com/files/security/1password-white-paper.pdf">whitepaper</a> explaining the design of 1Password in nerdy detail
+        </li>
+
+      </ul>
+
+      </li>
+
+      <li>
+        if you'd still prefer an open-source password management option, try <a target="_blank" href="https://bitwarden.com/">Bitwarden</a>, <a target="_blank" href="https://proton.me/pass">Proton Pass</a>, or a <a target="_blank" href="https://esli.blog.br/which-keepass-version-is-best-for-me">flavor of KeePass</a> - check the <a target="_blank" href="https://www.privacyguides.org/en/passwords/">Privacy Guides page about password managers</a> for a more detailed discussion
+      </li>
+
+      <li>
+        password managers are a hotly debated topic in privacy nerd circles, for plenty of valid reasons. some folks (like this <a target="_blank" href="https://lock.cmpxchg8b.com/passmgrs.html">former Google Project Zero researcher</a>) will tell you to use your browser's password manager, while others will balk at anything except a self-hosted password vault. I am recommending services that I think are the best combination of usable by the average person, and well-designed and executed for privacy and security.
+      </li>
+
+    </ul>
+
+  </li>
+
+
+
+
+  <li>
+    <a target="_blank" href="https://www.malwarebytes.com/">Malwarebytes</a> - antivirus software for most phones and computers. not open source. paid service upgrades available.
+  </li>
+
+  <li>
+    <a target="_blank" href="https://tails.net/">TailsOS</a> - portable anonymizing operating system
+  </li>
+
+<li>
+  Filesharing
+  <ul>
+
+  <li>
+    <a target="_blank" href="https://cryptpad.fr/">CryptPad</a> - encrypted filesharing service. good alternative to Google Drive for collaborative file editing. paid service upgrades available. excellent security options with per-file granularity available.
+  </li>
+
+  <li>
+    <a target="_blank" href="https://pad.riseup.net/">Riseup Pad</a> - ephemeral encrypted filesharing service
+  </li>
+
+<li>
+  <a target="_blank" href="https://proton.me/drive">Proton Drive</a> - Google Drive replacement
+</li>
+
+  </ul>
+</li>
+
+<li>
+  <a target="_blank" href="https://www.privacyguides.org/en/desktop-browsers/?h=browser">Web Browsers</a>
+
+  <ul>
+    <li>
+  <a target="_blank" href="https://www.waterfox.net/">Waterfox</a>
+</li>
+
+<li>
+  <a target="_blank" href="https://librewolf.net/">LibreWolf</a>
+</li>
+
+<li>
+  <a target="_blank" href="https://mullvad.net/en/browser">Mullvad Browser</a>
+</li>
+
+<li>
+  <a target="_blank" href="https://www.torproject.org/">Tor</a>
+</li>
+
+<li>
+  note: you may see recommendations for Brave when considering browsers. technically, Brave has scored well on privacy tests like the EFF's <a target="_blank" href="https://coveryourtracks.eff.org/">Cover Your Tracks</a>, but I'm not a fan of their crypto-coin-based business model or the ways their crypto-coin shilling has led them to do scammy stuff, like <a target="_blank" href="https://www.theverge.com/2020/6/8/21283769/brave-browser-affiliate-links-crypto-privacy-ceo-apology">automatically inserting affiliate codes</a> when users want to navigate to crypto exchanges or <a target="_blank" href="https://www.techradar.com/pro/vpn/brave-browser-under-fire-for-installing-its-vpn-without-user-permission">installing paid VPN services without user permission</a>. one of Brave's founders is also a <a target="_blank" href="https://slate.com/technology/2014/04/brendan-eich-why-mozilla-s-ceo-had-to-resign-over-gay-marriage-views.html">CA Proposition 8-supporting homophobe</a>, so I'm not inclined to be forgiving when there are many other options to consider.
+  </li>
+
+  <li>
+  Firefox has <a target="_blank" href="https://www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/">gone downhill with respect to its original privacy guarantees</a>,and there are <a target="_blank" href="https://grapheneos.org/usage#web-browsing">some</a> <a target="_blank" href="https://madaidans-insecurities.github.io/firefox-chromium.html">technical</a> <a target="_blank" href="https://digdeeper.club/articles/mozilla.xhtml">debates</a> about the privacy value of some of Firefox's protection techniques, which is why I recommend privacy- and security-centric "forks" of Firefox like Librewolf and Waterfox. 
+  
+</li>
+
+<li>
+  tools for testing and exploring browser privacy and security
+
+<ul>
+
+<li>
+  <a target="_blank" href="https://coveryourtracks.eff.org/">Cover Your Tracks</a>, a browser fingerprinting tester from Electronic Frontier Foundation
+</li>
+
+<li>
+  <a target="_blank" href="https://browserleaks.com/">BrowserLeaks</a>
+</li>
+
+<li>
+  <a target="_blank" href="https://privacytests.org/">Privacy Tests</a>
+</li>
+
+</ul>
+
+</li>
+
+  </ul>
+</li>
+
+<li>
+  <a target="_blank" href="https://cyberinsider.com/vpn/best/no-logs-vpn/">VPNs</a>
+
+  <br>
+
+  <p>
+    basic things to look for when choosing a VPN: a no-logs policy confirmed by independent audit, a warrant canary, parent company based in a country where privacy laws favor the consumer, parent company not owned by an advertising or data broker entity 
+  </p>
+
+  <ul>
+    <li>
+      <a target="_blank" href="https://surfshark.com/">Surfshark</a>
+    </li>
+
+    <li>
+      <b>
+      <a target="_blank" href="https://mullvad.net/">Mullvad</a>
+      </b>
+       is my foremost VPN recommendation for the privacy-conscious, for a few reasons:
+       <ul>
+
+        <li>
+          neither names, addresses, phone numbers, nor email addresses are required to get a Mullvad VPN subscription. accounts are tied to random 16-digit numbers
+        </li>
+
+        <li>
+          you can pay for your subscription with cash, Monero, bank wire-transfer, credit card, Bitcoin, Bitcoin Cash, PayPal, Swish, EPS Transfer, Bancontact, iDEAL, Przelewy24, and vouchers sold by resellers. this variety of options tells me that Mullvad understands that privacy isn't something you can achieve with one tool or strategy alone.
+        </li>
+
+        <li>
+          Mullvad's feature selection is up-to-date with current industry knowledge on privacy-invading practices; for example, they offer <a>DAITA: Defense Against AI-guided Traffic Analysis</a> to combat statistical categorization of your internet activity based on metadata
+        </li>
+
+        <li>
+          Swedish authorities have <a target="_blank" href="https://gizmodo.com/vpn-mullvad-search-warrant-data-it-doesnt-collect-1850358717">tried executing a warrant for customer data on Mullvad's offices in 2023</a>, and had to walk away empty-handed
+        </li>
+
+        <li>
+          as a <a target="_blank" href="https://mullvad.net/en/help/policy-reviews-advertising-and-affiliates">policy</a>, Mullvad doesn't do influencer sponsorships
+        </li>
+
+       </ul>
+    </li>
+
+    <li>
+      <a target="_blank" href="https://protonvpn.com/">Proton VPN</a>
+    </li>
+
+  </ul>
+</li>
+
+</ul>
+<div>  
+<h5> Further Guides to Recommended Apps</h5>
+
+<ul>
+
+<li>
+  <a target="_blank" href="https://prism-break.org/en/">PRISM Break</a> - Opt out of global data surveillance programs like <a target="_blank" href="https://en.wikipedia.org/wiki/PRISM_%28surveillance_program%29">PRISM</a>, <a target="_blank" href="https://en.wikipedia.org/wiki/XKeyscore">XKeyscore</a> and <a target="_blank" href="https://en.wikipedia.org/wiki/Tempora">Tempora</a> by switching to encrypted and open source applications
+</li>
+
+<li>
+  <a target="_blank" href="https://www.privacyguides.org/">Privacy Guides</a> 
+</li>
+
+</ul>
+</div>
+</div>
+
+<div>
+<h5>Further Digital Security Resources</h5>
 
   <ul>
 
@@ -260,17 +872,8 @@ See also: <a href="./tactics.html">Tactics</a>, <a href="./community.html">Commu
       <a target="_blank" href="https://datadetoxkit.org/en/privacy/outandabout/">Data Detox Kit Privacy Guide</a>
     </li>
 
-    <li>
-      <a target="_blank" href="https://coveryourtracks.eff.org/">Cover Your Tracks</a>
-    </li>
 
-    <li>
-      miscellaneous
 
-      <ul>
-        <li>
-          <a target="_blank" href="https://crimethinc.com/2017/03/08/end-to-end-encryption-101-what-does-e2ee-do-and-does-vault-7-mean-its-useless">End-to-End Encryption 101</a> by Elle Armageddon
-        </li>
 
           <li>
               <a target="_blank" href="https://www.sproutdistro.com/catalog/zines/security/threat-library/">"Threat Library"</a> by the No Trace Project
@@ -279,115 +882,11 @@ See also: <a href="./tactics.html">Tactics</a>, <a href="./community.html">Commu
             </ul>
           </li>
 
-          <li>
-            <a target="_blank" href="https://support.apple.com/en-us/108756#:~:text=On%20iPhone%20or%20iPad,Turn%20on%20Advanced%20Data%20Protection">How to turn on Advanced Data Protection for iCloud</a>
-          </li>
-      </ul>
 
-    </li>
+
 
   </ul>
-
-
-  <h4 id="mobile-phone-security">On Mobile Phone Security</h4>
-
-  <ul>
-
-    <li>
-      <a target="_blank" href="https://www.sproutdistro.com/catalog/zines/security/mobile-phone-activists/">"Mobile Phone Security for Activists and Agitators"</a> by Håkan Geijer
-    </li>
-
-    <li>
-      specifically on burner phones
-      <ul>
-      <li>
-        <a target="_blank" href="https://theanarchistlibrary.org/library/elle-armageddon-burner-phone-best-practices">Burner Phone Best Practices</a> by Elle Armageddon
-      </li>
-
-      <li>
-        <a target="_blank" href="https://berkmananarchy.noblogs.org/post/2023/11/02/zine-submission-how-and-why-to-use-a-burner-phone/">How (and Why) to Use a Burner Phone</a> from Berkman School of Anarchy
-      </li>
-
-      </ul>
-
-    </li>
-
-    <li>
-      <a target="_blank" href="https://themarkup.org/the-breakdown/2024/05/04/how-do-i-prepare-my-phone-for-a-protest-updated-2024">How Do I Prepare My Phone for a Protest?</a> by Dan Phiffer, Tomas Apodaca, Miles Hilton, and Maddy Varner for The Markup on May 4 2024
-    </li>
-
-  </ul>
-
-
-
-
-
-
-
-
-<h4 id="recommended-apps-services">Recommended Apps and Services</h4>
-
-all recommended tools are free and open source unless otherwise noted.
-
-<ul>
-  <li>
-    <a target="_blank" href="https://joindeleteme.com/">Delete Me</a> - a paid service to scrub your personal information from search engines and data brokers
-  </li>
-
-  <li>
-    <a target="_blank" href="https://signal.org/">Signal</a> - end-to-end encrypted messaging and calling platform
-    <ul>
-
-      <li>
-    for advice on best practices with Signal, see the following articles:
-    <ul>
-      <li>
-        <a target="_blank" href="https://freedom.press/training/locking-down-signal/">Locking Down Signal</a> by Martin Shelton for Freedom of the Press Foundation on February 22 2024
-      </li>
-    </ul>
-    </li>
-
-    <li>
-    for a technical report on why Signal is the best choice of messaging app for digital privacy, see <a target="_blank" href="https://www.techpolicy.press/what-is-secure-an-analysis-of-popular-messaging-apps/">What is Secure? An Analysis of Popular Messaging Apps</a> from Tech Policy Press in June 2023
-    </li>
-    </ul>
-  </li>
-
-  <li>
-    <a target="_blank" href="https://cryptpad.fr/">CryptPad</a> - encrypted filesharing service. good alternative to Google Drive for collaborative file editing. paid service upgrades available. excellent security options with per-file granularity available.
-  </li>
-
-  <li>
-    <a target="_blank" href="https://1password.com/">1Password</a> - paid closed-source password management service.
-  </li>
-
-  <li>
-    <a target="_blank" href="https://pad.riseup.net/">Riseup Pad</a> - ephemeral encrypted filesharing service
-  </li>
-
-  <li>
-    <a target="_blank" href="https://meet.jit.si/">Jitsi</a> - end-to-end encrypted video conferencing platform. paid service upgrades available.
-  </li>
-
-  <li>
-    <a target="_blank" href="https://www.malwarebytes.com/">Malwarebytes</a> - antivirus software for most phones and computers. not open source. paid service upgrades available.
-  </li>
-
-</ul>
-  
-<h5> Further Guides to Recommended Apps</h5>
-
-<ul>
-
-<li>
-  <a target="_blank" href="https://prism-break.org/en/">PRISM Break</a> - Opt out of global data surveillance programs like <a target="_blank" href="https://en.wikipedia.org/wiki/PRISM_%28surveillance_program%29">PRISM</a>, <a target="_blank" href="https://en.wikipedia.org/wiki/XKeyscore">XKeyscore</a> and <a target="_blank" href="https://en.wikipedia.org/wiki/Tempora">Tempora</a> by switching to encrypted and open source applications
-</li>
-
-<li>
-  <a target="_blank" href="https://www.privacytools.io/">Privacy Tools</a> Guide: Website for Encrypted Software & Apps
-</li>
-
-</ul>
+</div>
 
 </article>
 
@@ -407,6 +906,8 @@ Atlas of Surveillance
   </a> from Electronic Frontier Foundation
 </li>
 
+
+
 <li>
   <a target="_blank" href="https://crimethinc.com/zines/blinding-the-cyclops">Blinding the Cyclops, Wrecking the Panopticon</a>
 </li>
@@ -417,9 +918,7 @@ Atlas of Surveillance
 
 
 
-<li>
-  <a target="_blank" href="https://www.theverge.com/21281897/how-to-hide-faces-scrub-metadata-photograph-video-protest">How to hide faces and scrub metadata when you photograph a protest </a>
-</li>
+
 
 </ul>
 
@@ -437,21 +936,13 @@ Atlas of Surveillance
     <a target="_blank" href="https://www.sproutdistro.com/catalog/zines/security/we-are-being-doxxed/">"We Are Being Doxxed"</a> zine by Anonymous
 </li>
 
-<li>
-  <a target="_blank" href="https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List">Big Ass Data Broker Opt-Out List</a>
-</li>
 
-<li>
-  <a target="_blank" href="https://www.keepersecurity.com/blog/2023/07/25/how-to-remove-your-information-from-people-search-sites/">How To Remove Your Information From People Search Sites</a> by Aranza Trevino for Keeper Security on July 25 2023
-</li>
 
 <li>
     <a target="_blank" href="https://www.sproutdistro.com/catalog/zines/security/doxcare/">"Doxcare"</a> zine by CrimeThinc
 </li>
 
-<li>
-  <a target="_blank" href="https://pimeyes.com/en/opt-out-request-form">Opt-Out Request Form</a> for PimEyes, an "online face search engine"
-</li>
+
 
 </ul>
 
